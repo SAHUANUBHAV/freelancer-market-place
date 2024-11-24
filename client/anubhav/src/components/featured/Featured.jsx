@@ -25,7 +25,7 @@ function Featured() {
           </div>
         </div>
         <div className="right">
-          <img src="https://www.seekpng.com/png/full/1010-10106302_virat-kohli-rcb-png.png" alt="ANUBHAV" />
+          <img src="https://pngimg.com/uploads/student/student_PNG124.png" alt="ANUBHAV" />
         </div>
       </div>
     </div>
